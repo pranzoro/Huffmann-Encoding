@@ -1,2 +1,2 @@
 # Huffmann-Encoding
-Data compressing using Huffmann Encoding and 
+Data Compression using Huffman's Greedy Algorithm for Encoding and Decoding
